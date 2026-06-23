@@ -1,5 +1,5 @@
 # HR Analytics Presence Insights Dashboard
-![Uploading image.png…]()
+<img width="1310" height="737" alt="image" src="https://github.com/user-attachments/assets/7a435769-947d-44e2-9a98-c0b4e55f7389" />
 
 ## Overview
 
